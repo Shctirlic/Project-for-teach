@@ -1,0 +1,20 @@
+Australian dollar
+45.2
+Azerbaijani manat
+112.3
+Armenian dram
+15.7069
+Belarusian ruble
+24.8900
+Bulgarian Lev
+31.4567
+Brazilian Real
+12.0581
+Hungarian forints
+14.7892
+Republic of Korea
+43.6125
+Hong Kong dollars
+79.2439
+Indian Rupee
+75.3688
